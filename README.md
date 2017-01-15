@@ -10,4 +10,5 @@ Tous les contenus du site sont rédigés en anglais<br>
 Le code source du site est disponible sur jsfiddle<br>
 Le site intègre un composant JQuery<br>
 
+résultat: 
 +    [The Wild Circus](https://htmlpreview.github.io/?https://github.com/flow89/wildcircus/blob/master/index.html)
